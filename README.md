@@ -15,3 +15,4 @@ springboot releative knowadge for applying;
 ### object transform to string
 ### schedule test in springboot
 ### request body cache,and we can get request body anywhere
+### interceptor
