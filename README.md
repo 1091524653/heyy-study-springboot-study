@@ -4,3 +4,12 @@ springboot releative knowadge for applying;
 ### request body validte,request header validate,request param validate;
 ### encryUtil.encrypt and encryptUtil.decrypt for sensitive field;
 ### 限流RateLimiter
+### RestTemplate retry
+### RestTemplate request factory config
+### properties load by inputStream
+### @PostConstruct
+### customer exception and exception handler
+### DatetimeManager
+### swagger
+### ValidationMessages.properties
+### object transform to string
