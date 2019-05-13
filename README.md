@@ -13,3 +13,5 @@ springboot releative knowadge for applying;
 ### swagger
 ### ValidationMessages.properties
 ### object transform to string
+### schedule test in springboot
+### request body cache,and we can get request body anywhere
